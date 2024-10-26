@@ -1,0 +1,29 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+:root{
+ -primary--background-: rgb(252, 245, 237);
+ -secondary--background-: rgb(108, 122, 213);
+ -tertiary--background-: rgb(32, 90, 151);
+--border-:none;
+}
+
+a{
+ text-decoration: none;
+}
+li{
+ list-style-type: none;
+}
+
+
+
+
+
+
+
+
+
+
+
